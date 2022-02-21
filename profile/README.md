@@ -9,4 +9,4 @@ We're continuesly improving the GameServerApp platform together with our custome
 ### Contribute
 - [See all suggestions](https://github.com/gameserverapp/Platform/discussions)
 - [Report an issue](https://github.com/gameserverapp/Platform/issues)
-- [What are we currently working on](https://github.com/orgs/gameserverapp/projects/3)
+- [What are we currently working on](https://github.com/gameserverapp/Platform/projects/2)
